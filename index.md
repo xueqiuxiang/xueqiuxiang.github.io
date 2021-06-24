@@ -106,6 +106,9 @@
 </ul>
       
     </td>
-    
+    <td width="25%">
+      <h1>主页二维码</h1>
+      <img src="/6.jpg" width="100%">     
+    </td>
   </tr>
 </table>
